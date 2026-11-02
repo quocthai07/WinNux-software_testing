@@ -9,7 +9,7 @@
 | Mã kế hoạch | TP-SM-N6 |
 | Phiên bản | 0.1 |
 | Ngày lập | 03/11/2026 |
-| Trạng thái | Bản nháp, chờ nhóm rà soát và giảng viên góp ý |
+| Trạng thái | Bản nháp, chờ nhóm giảng viên góp ý |
 | Đề tài chính | Kiểm thử chức năng và kiểm thử hộp trắng website bán hàng ShopMee sử dụng PHP |
 | Hướng đề tài | B – Ứng dụng do nhóm tự xây dựng |
 | Người phụ trách tổng hợp | Đổng Quốc Thái – 50.01.104.143 |
